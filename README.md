@@ -10,6 +10,9 @@ By Keturah Howard, Sommer Howe, January 24th 2020
 - objects hold properties
   - input: place
   - output: portland oregon, summer, went to voodoo donuts 
+- push place location objects to places array
+  - input: console.log(places)
+  - output: places: Array(2)
 - places diplay something when object is clicked on
   - input: $('#place').onclick
   - output: 'hello'
