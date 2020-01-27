@@ -14,7 +14,7 @@ By Keturah Howard, Sommer Howe, January 24th 2020
   - input: console.log(places)
   - output: places: Array(2)
 - places diplay something when object is clicked on
-  - input: $('#place').onclick
+  - input: $('#place').onClick
   - output: 'hello'
 - places diplay object properties when object is clicked on
   - input: $('#place').onclick
