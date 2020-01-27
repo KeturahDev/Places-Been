@@ -13,6 +13,12 @@ By Keturah Howard, Sommer Howe, January 24th 2020
 - push place location objects to places array
   - input: console.log(places)
   - output: places: Array(2)
+- places object displays on the browser
+  - input: load page
+  - output: place objects on page
+- places objects are clickable
+  - input: click on place button
+  - output: true
 - places diplay something when object is clicked on
   - input: $('#place').onClick
   - output: 'hello'

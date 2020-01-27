@@ -1,11 +1,9 @@
 //places buisness logic ---------------------
 function Places () {
   this.places = [];
-  // this.id = 0 ;
 };
 
 Places.prototype.addPlace = function(place) {
-  // place.id = this.assignId();
   this.places.push(place);
   console.log('ahhhh push it');
 };
