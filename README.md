@@ -7,6 +7,15 @@ By Keturah Howard, Sommer Howe, January 24th 2020
 ## Behavioral Driven Development
   *Heres a list of the specific behaviors I wanted to be acheived throughout the development process, starting from most basic to complex.*
 
+- objects hold properties
+  - input: place
+  - output: portland oregon, summer, went to voodoo donuts 
+- places diplay something when object is clicked on
+  - input: $('#place').onclick
+  - output: 'hello'
+- places diplay object properties when object is clicked on
+  - input: $('#place').onclick
+  - output: *all properties display*
 
 
 ## Set Up 
